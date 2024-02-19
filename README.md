@@ -1,7 +1,6 @@
 <h1>Hi there👋</h1>
 <h3>I'm Asahina, Just A Random Stranger</h3>
 
-![:name](https://count.getloli.com/get/@:Peaceful-Wolf)
 **About me**
 
 ➤ 👨‍💻 I'm currently learning Programming Languages
