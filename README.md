@@ -84,6 +84,7 @@
 
 -----
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><b> Connect with me</b>
+<br>
 <a href="https://t.me/peaceful_wolf" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" t=telegram/>
 </a>
