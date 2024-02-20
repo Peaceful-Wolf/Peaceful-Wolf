@@ -75,7 +75,9 @@
 
 -----
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
+<a href="https://t.me/peaceful_wolf" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" t=telegram/>
+</a>
   
 <br>
 <br>
