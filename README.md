@@ -29,7 +29,7 @@
 - **Languages**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,java,js,jquery,php,py,html,ts,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,py,html,css,jquery,java,js,php,wordpress,ts," />
   </a>
 </p>  
     
@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,heroku" />
+    <img src="https://skillicons.dev/icons?i=digitalocean,vercel,heroku" />
   </a>
 </p>  
 
