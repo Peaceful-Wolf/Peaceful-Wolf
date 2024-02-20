@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Asahina,;Just+A+Random+Stranger..;)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=16&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9D%90%BD%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%A1+%F0%9D%90%B6%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%A0%F0%9D%91%92+%F0%9D%91%8C%F0%9D%91%9C%F0%9D%91%A2%F0%9D%91%9F+%F0%9D%90%B8%F0%9D%91%A6%F0%9D%91%92%F0%9D%91%A0%2C+%F0%9D%90%B5%F0%9D%91%A2%F0%9D%91%A1+%F0%9D%90%BE%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9D+%F0%9D%91%8C%F0%9D%91%9C%F0%9D%91%A2%F0%9D%91%9F+%F0%9D%91%80%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%91+%F0%9D%91%8A%F0%9D%91%96%F0%9D%91%91%F0%9D%91%92+%F0%9D%91%82%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Revolution&size=16&pause=1000&random=false&width=435&lines=%F0%9D%90%BD%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%A1+%F0%9D%90%B6%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%A0%F0%9D%91%92+%F0%9D%91%8C%F0%9D%91%9C%F0%9D%91%A2%F0%9D%91%9F+%F0%9D%90%B8%F0%9D%91%A6%F0%9D%91%92%F0%9D%91%A0%2C+%F0%9D%90%B5%F0%9D%91%A2%F0%9D%91%A1+%F0%9D%90%BE%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9D+%F0%9D%91%8C%F0%9D%91%9C%F0%9D%91%A2%F0%9D%91%9F+%F0%9D%91%80%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%91+%F0%9D%91%8A%F0%9D%91%96%F0%9D%91%91%F0%9D%91%92+%F0%9D%91%82%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B.." alt="Typing SVG" /></a>
 
 <quote>𝐽𝑢𝑠𝑡 𝐶𝑙𝑜𝑠𝑒 𝑌𝑜𝑢𝑟 𝐸𝑦𝑒𝑠, 𝐵𝑢𝑡 𝐾𝑒𝑒𝑝 𝑌𝑜𝑢𝑟 𝑀𝑖𝑛𝑑 𝑊𝑖𝑑𝑒 𝑂𝑝𝑒𝑛..</quote>
 
