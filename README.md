@@ -10,6 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Asahina,;Just+A+Random+Stranger..;)](https://git.io/typing-svg)
 
+<quote>𝐽𝑢𝑠𝑡 𝐶𝑙𝑜𝑠𝑒 𝑌𝑜𝑢𝑟 𝐸𝑦𝑒𝑠, 𝐵𝑢𝑡 𝐾𝑒𝑒𝑝 𝑌𝑜𝑢𝑟 𝑀𝑖𝑛𝑑 𝑊𝑖𝑑𝑒 𝑂𝑝𝑒𝑛..</quote>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
@@ -20,8 +22,6 @@
 - 
 
 <br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
