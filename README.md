@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,telegram" />
   </a>
 </p>  
 
