@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=digitalocean,vercel,heroku" />
+    <img src="https://skillicons.dev/icons?i=vercel,heroku" />
   </a>
 </p>  
 
@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,telegram" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb" />
   </a>
 </p>  
 
