@@ -10,8 +10,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=7AF79A&random=false&width=435&lines=I'm+Asahina%2C;Just+A+Random+Stranger.." alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=16&pause=1000&random=false&width=435&lines=%22Just+Close+Your+Eyes%2C+But+Keep+Your+Mind+Wide+Open..%22" alt="Typing SVG" /></a>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
@@ -92,6 +90,6 @@
 </a>
   
 <br>
-<br>
-  <br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=16&pause=1000&random=false&width=435&lines=%22Just+Close+Your+Eyes%2C+But+Keep+Your+Mind+Wide+Open..%22" alt="Typing SVG" /></a>
 
