@@ -17,7 +17,8 @@
 -
 - 
 - 
-- 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=16&pause=1000&random=false&width=435&lines=%22Just+Close+Your+Eyes%2C+But+Keep+Your+Mind+Wide+Open..%22" alt="Typing SVG" /></a>
 
 <br>
 
@@ -91,5 +92,5 @@
   
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=16&pause=1000&random=false&width=435&lines=%22Just+Close+Your+Eyes%2C+But+Keep+Your+Mind+Wide+Open..%22" alt="Typing SVG" /></a>
+
 
