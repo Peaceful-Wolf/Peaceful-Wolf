@@ -29,7 +29,7 @@
 - **Languages**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,java,js,jquery,php,py,html,ts,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,css,java,js,jquery,php,py,html,ts,wordpress" />
   </a>
 </p>  
     
