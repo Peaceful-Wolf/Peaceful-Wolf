@@ -83,7 +83,7 @@
 <br>
 
 -----
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="25"><b> Connect with me</b>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"><b> Connect with me</b>
 <br>
 
 <a href="https://t.me/peaceful_wolf" target="_blank">
