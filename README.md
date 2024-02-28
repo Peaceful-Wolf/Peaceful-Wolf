@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" t=telegram/>
 </a>
 
-#Visitor_Count
+<br>
 <a href="https://t.me/peaceful_wolf"><img alt="Cute Count" src="https://count.getloli.com/get/@Peaceful0Wolf?theme=rule34" /></a>
 
 
