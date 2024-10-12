@@ -24,12 +24,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LynomX&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
-  <img align="leftr" src="https://github-contributor-stats.vercel.app/api?username=LynomX&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
-
-<br>
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynomX&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynomX&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LynomX&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
 </p>
