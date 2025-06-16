@@ -8,6 +8,8 @@
   🛠️ Languages and Tools:
 </h3>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Peaceful-Wolf&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,mongodb)](https://skillicons.dev)
 
 <p>
